@@ -21,7 +21,7 @@ This space showcases my data science projects and coding work. Feel free to brow
 ## Contact Me 
 
 <a href="mailto:mariuskrasuckas@gmail.com">
- <img align="left" alt="Gmail" width="60" height="60" src="https://camo.githubusercontent.com/443a1f864f5b7f354e65595d3713156bfab31c7caa731f3f1d214b87aba63168/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" />
+  <img align="left" alt="Gmail" width="40" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" />
 </a>
 
 
