@@ -6,7 +6,7 @@
 
 Hi, I’m Marius, exploring the fields of data science and machine learning. I enjoy solving practical problems, building models, and improving systems through experimentation and iteration. Most of my work is in Python, and I’ve recently started exploring AI engineering as the next step in my learning.
 
-This GitHub showcases the projects I’ve completed, including data analysis, classic machine learning pipelines, and solutions based on transformers and convolutional neural networks. Feel free to explore the code, follow along with my progress, or reach out if you're curious about any of the work.
+This GitHub showcases the projects I’ve completed, including data analysis, classic machine learning, and solutions based on transformers and convolutional neural networks. Feel free to follow along my progress, or reach out if you're curious about the work.
 
 ## Tools
 
