@@ -1,8 +1,12 @@
-# Hi 👋 Thanks for stopping by
+# Welcome!
 
-I am Marius, exploring the fields of data science and machine learning, with deep learning on the horizon. I love continuously learning and mastering new skills to make meaningful contributions. The blend of challenge and real-world relevance in data science keeps me interested—it's like solving an engaging puzzle that offers fresh perspectives on the world.
+<p align="center">
+  <img src="https://media.giphy.com/media/33PMXr72xOqBdOUzTO/giphy.gif" alt="Animated Visual" width="300" style="margin: -80px 0px -30px 0px;">
+</p>
 
-This space showcases my data science projects and coding work. Feel free to browse through my repositories, explore the code, and discover something of interest. If you have any questions or suggestions, don't hesitate to get in touch.
+Hi, I’m Marius, exploring the fields of data science and machine learning. I enjoy solving practical problems, building models, and improving systems through experimentation and iteration. Most of my work is in Python, and I’ve recently started exploring AI engineering as the next step in my learning.
+
+This GitHub showcases the projects I’ve completed, including data analysis, classic machine learning pipelines, and solutions based on transformers and convolutional neural networks. Feel free to explore the code, follow along with my progress, or reach out if you're curious about any of the work.
 
 ## Tools
 
