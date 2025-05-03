@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/33PMXr72xOqBdOUzTO/giphy.gif" alt="Animated Visual" width="300" style="margin: -80px 0px -30px 0px;">
 </p>
 
-Hi, I’m Marius, exploring the fields of data science and machine learning. I enjoy solving practical problems, building models, and improving systems through experimentation and iteration. Most of my work is in Python, and I’ve recently started exploring AI engineering as the next step in my learning.
+Hi, I’m Marius, exploring the fields of data science and machine learning. I enjoy solving practical problems, building models, and improving systems through experimentation and iteration. My work is in Python, and I’ve recently started exploring AI engineering as the next step in my learning.
 
 This GitHub showcases the projects I’ve completed, including data analysis, classic machine learning, and solutions based on transformers and convolutional neural networks. Feel free to follow along my progress, or reach out if you're curious about the work.
 
