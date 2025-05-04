@@ -8,7 +8,7 @@ Hi, I’m Marius, exploring the fields of data science and machine learning. I e
 
 This GitHub showcases the projects I’ve completed, including data analysis, classic machine learning, and solutions based on transformers and convolutional neural networks. Feel free to follow along my progress, or reach out if you're curious about the work.
 
-## Tools
+# Tools
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" width="55" height="55">
