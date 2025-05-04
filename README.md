@@ -23,6 +23,7 @@ This GitHub showcases the projects I’ve completed, including data analysis, cl
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="60" height="60">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="60" height="60">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="pytorch" width="60" height="60">
+  <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="60" height="60">
 </p>
 
 ## Contact Me 
