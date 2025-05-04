@@ -10,7 +10,7 @@ This GitHub showcases the projects I’ve completed, including data analysis, cl
 
 ## Tools
 
-<p align="center">
+<p align="center" style="white-space: nowrap;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" width="60" height="60">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="jupyter" width="60" height="60">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="60" height="60">
